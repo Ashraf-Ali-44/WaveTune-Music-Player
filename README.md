@@ -24,7 +24,7 @@ Bootstrap Icons
  ┣ 📄 style.css
  ┣ 📄 script.js
  ┣ 📄 data.js
- ┗ 📁 songs
+
 
  ⚙️ How to Run
 Download or clone this repository
