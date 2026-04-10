@@ -1,4 +1,5 @@
 #🎵 WaveTune-Music-Player
+
 A simple and responsive web-based music player built using HTML, CSS, and JavaScript.
 This project allows users to play, pause, and navigate between songs with a clean UI and interactive controls.
 
